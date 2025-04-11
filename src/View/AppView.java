@@ -1,7 +1,7 @@
 package View;
 
-import Annotation.Author;
-import Annotation.MethodInfo;
+import Model.Author;
+import Model.MethodInfo;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.AnnotatedElement;
